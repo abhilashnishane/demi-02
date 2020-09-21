@@ -15,7 +15,7 @@ import Insights from '../pages/Insights';
 export default class Main extends React.Component {
   render() {
     return(
-      <Router>
+      <Router basename="/demo-02">
         <div>
 
           <Route exact path="/" component={Home} />
