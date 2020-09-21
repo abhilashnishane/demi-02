@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/demi-02/static/css/main.03ec14d1.chunk.css",
-    "main.js": "/demi-02/static/js/main.643afbf1.chunk.js",
-    "main.js.map": "/demi-02/static/js/main.643afbf1.chunk.js.map",
+    "main.js": "/demi-02/static/js/main.c3175872.chunk.js",
+    "main.js.map": "/demi-02/static/js/main.c3175872.chunk.js.map",
     "runtime-main.js": "/demi-02/static/js/runtime-main.f7fe747a.js",
     "runtime-main.js.map": "/demi-02/static/js/runtime-main.f7fe747a.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/demi-02/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.d3f7a7a1.chunk.js": "/demi-02/static/js/2.d3f7a7a1.chunk.js",
     "static/js/2.d3f7a7a1.chunk.js.map": "/demi-02/static/js/2.d3f7a7a1.chunk.js.map",
     "index.html": "/demi-02/index.html",
-    "precache-manifest.00a80597d8b4acd39cb5b7ced5e44828.js": "/demi-02/precache-manifest.00a80597d8b4acd39cb5b7ced5e44828.js",
+    "precache-manifest.8e1f29a213d761a1c1d8085504645a88.js": "/demi-02/precache-manifest.8e1f29a213d761a1c1d8085504645a88.js",
     "service-worker.js": "/demi-02/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/demi-02/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.03ec14d1.chunk.css.map": "/demi-02/static/css/main.03ec14d1.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.d3f7a7a1.chunk.js",
     "static/css/main.03ec14d1.chunk.css",
-    "static/js/main.643afbf1.chunk.js"
+    "static/js/main.c3175872.chunk.js"
   ]
 }
