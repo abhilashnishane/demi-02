@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/demi-02/static/css/main.03ec14d1.chunk.css",
+    "main.js": "/demi-02/static/js/main.3ef9ff82.chunk.js",
+    "main.js.map": "/demi-02/static/js/main.3ef9ff82.chunk.js.map",
+    "runtime-main.js": "/demi-02/static/js/runtime-main.f7fe747a.js",
+    "runtime-main.js.map": "/demi-02/static/js/runtime-main.f7fe747a.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/demi-02/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.d3f7a7a1.chunk.js": "/demi-02/static/js/2.d3f7a7a1.chunk.js",
+    "static/js/2.d3f7a7a1.chunk.js.map": "/demi-02/static/js/2.d3f7a7a1.chunk.js.map",
+    "index.html": "/demi-02/index.html",
+    "precache-manifest.3945892e6659424dba6103499ba898a0.js": "/demi-02/precache-manifest.3945892e6659424dba6103499ba898a0.js",
+    "service-worker.js": "/demi-02/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/demi-02/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.03ec14d1.chunk.css.map": "/demi-02/static/css/main.03ec14d1.chunk.css.map",
+    "static/js/2.d3f7a7a1.chunk.js.LICENSE.txt": "/demi-02/static/js/2.d3f7a7a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7fe747a.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.d3f7a7a1.chunk.js",
+    "static/css/main.03ec14d1.chunk.css",
+    "static/js/main.3ef9ff82.chunk.js"
+  ]
+}
