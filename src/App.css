@@ -1,0 +1,152 @@
+body {
+  background-color: #1f2323;
+  /* color: #fff; */
+  color: #e7eae9;
+  margin-top: 186px;
+  margin-bottom: 60px;
+}
+
+.logo {
+  width: 35px;
+}
+
+.dates-cont {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  background-color: #1f2323;
+}
+
+.navbar {
+  background-color: #1f2323 !important;
+}
+
+.dates-cont-2 {
+  display: flex;
+  color: #707473;
+  font-size: 0.8rem;
+  overflow: auto;
+  padding: 10px 0;
+  font-weight: bold;
+}
+.day-cont {
+  padding: 12px;
+  text-align: center;
+  margin: 0px 3px;
+}
+.day {
+  font-size: 0.6rem;
+}
+
+.day-cont.selected {
+  background-color: #282c2d;
+  border-radius: 7px;
+  color: #33cf8d;
+}
+
+.add-task-top-col {
+  padding: 0;
+}
+.add-task-top {
+  background-color: #282c2d;
+  color: #60676c;
+  display: flex;
+  padding: 9px 20px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 6px;
+}
+.add-plus {
+  /* background-color: #fff; */
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.add-text {
+  padding-left: 10px;
+}
+
+.task-container {
+  display: flex;
+  background-color: #282c2d;
+  border-radius: 7px;
+  margin: 10px 4px;
+  font-size: 0.9rem;
+  padding: 14px 20px;
+}
+.task-container .icon-cont {
+  padding-right: 24px;
+  padding-left: 8px;
+}
+.task-container .time {
+  color: #696d6f;
+  font-size: 0.8rem;
+}
+
+
+
+
+.bottom-nav-cont {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  padding: 16px 0;
+  display: flex;
+  justify-content: space-evenly;
+  /* box-shadow: -3px -3px 5px 0 #00000061; */
+  box-shadow: -3px -3px 20px 0 #00000042;
+  background-color: #1f2323;
+}
+
+.plus-sign-c {
+  /* position: fixed;
+  width: 50px;
+  height: 50px;
+  background-color: #33cf8d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: #1f2323; */
+}
+
+.plus-sign-c {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  /* background-color: rgb(44, 108, 128); */
+  background-color: #33cf8d;
+  position: fixed;
+  bottom: 70px;
+  right: 22px;
+}
+.plus-sign-c::after {
+  content: " ";
+  position: absolute;
+  display: block;
+  /* background-color: #fff; */
+  background-color: #1f2323;
+  height: 3px;
+  margin-top: -1.5px;
+  top: 50%;
+  left: 17px;
+  right: 17px;
+  z-index: 9;
+}
+.plus-sign-c::before {
+  content: " ";
+  position: absolute;
+  display: block;
+  /* background-color: #fff; */
+  background-color: #1f2323;
+  width: 3px;
+  margin-left: -1.5px;
+  left: 50%;
+  top: 17px;
+  bottom: 17px;
+  z-index: 9;
+}
